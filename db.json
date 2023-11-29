@@ -2,110 +2,443 @@
   "products": [
     {
       "id": 1,
-      "name": "New Product 1",
+      "name": "Urban Vibes Tee",
       "price": "33.85",
-      "review": "4.5 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img1.png",
       "checkoutStarted": false
     },
     {
       "id": 2,
-      "name": "New Product 2",
+      "name": "Retro Sunset T-Shirt",
       "price": "15.67",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img2.png",
       "checkoutStarted": false
     },
     {
       "id": 3,
-      "name": "New Product 3",
+      "name": "Adventure Explorer Tee",
       "price": "45.12",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img3.png",
       "checkoutStarted": false
     },
     {
       "id": 4,
-      "name": "New Product 4",
+      "name": "Minimalist Bliss Shirt",
       "price": "28.36",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img4.png",
       "checkoutStarted": false
     },
     {
       "id": 5,
-      "name": "New Product 5",
+      "name": "Galaxy Dream T-Shirt",
       "price": "19.78",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img5.png",
       "checkoutStarted": false
     },
     {
       "id": 6,
-      "name": "New Product 6",
+      "name": "Vintage Surf Tee",
       "price": "74.91",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img6.png",
       "checkoutStarted": false
     },
     {
       "id": 7,
-      "name": "New Product 7",
+      "name": "Graphic Jungle Shirt",
       "price": "55.06",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img7.png",
       "checkoutStarted": false
     },
     {
       "id": 8,
-      "name": "New Product 8",
+      "name": "Cosmic Wave T-Shirt",
       "price": "61.12",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img8.png",
       "checkoutStarted": false
     },
     {
       "id": 9,
-      "name": "New Product 9",
+      "name": "Abstract Artistry Tee",
       "price": "82.04",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img9.png",
       "checkoutStarted": false
     },
     {
       "id": 10,
-      "name": "New Product 10",
+      "name": "Weekend Warrior Shirt",
       "price": "76.94",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img10.png",
       "checkoutStarted": false
     },
     {
       "id": 11,
-      "name": "New Product 11",
+      "name": "Urban Jungle Camo Tee",
       "price": "87.22",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img11.png",
       "checkoutStarted": false
     },
     {
       "id": 12,
-      "name": "New Product 12",
+      "name": "Mountain Escape T-Shirt",
       "price": "59.49",
-      "review": "5.0 stars",
+      "review": "",
       "otherInfo": "Lorem ipsum...",
       "image": "images/img12.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 13,
+      "name": "Elegant Lace Dress",
+      "price": "129.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/Woman's_1.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 14,
+      "name": "Floral Maxi Skirt",
+      "price": "89.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/Woman's_2.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 15,
+      "name": "Classic Tailored Blazer",
+      "price": "149.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/Woman's_3.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 16,
+      "name": "Boho Chic Blouse",
+      "price": "79.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/Woman's_4.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 17,
+      "name": "Stylish Denim Jacket",
+      "price": "109.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/Woman's_5.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 18,
+      "name": "Polka Dot Wrap Dress",
+      "price": "99.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/Woman's_6.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 19,
+      "name": "Cozy Knit Sweater",
+      "price": "69.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/Woman's_7.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 20,
+      "name": "Urban Streetwear Hoodie",
+      "price": "49.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/man's_1.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 21,
+      "name": "Classic Denim Jeans",
+      "price": "59.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/man's_2.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 22,
+      "name": "Modern Bomber Jacket",
+      "price": "79.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/man's_3.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 23,
+      "name": "Vintage Graphic T-Shirt",
+      "price": "29.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/man's_4.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 24,
+      "name": "Tailored Slim-Fit Suit",
+      "price": "149.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/man's_5.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 25,
+      "name": "Casual Cargo Shorts",
+      "price": "39.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/man's_6.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 26,
+      "name": "Stylish Leather Jacket",
+      "price": "119.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/man's_7.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 27,
+      "name": "Plaid Button-Up Shirt",
+      "price": "49.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/man's_8.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 28,
+      "name": "Jogger Sweatpants",
+      "price": "34.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/man's_9.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 29,
+      "name": "SonicWave Wireless Earbuds",
+      "price": "49.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e13.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 30,
+      "name": "AeroBlast True Wireless Earphones",
+      "price": "59.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e14.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 31,
+      "name": "HarmonySound Noise-Canceling Earbuds",
+      "price": "79.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e15.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 32,
+      "name": "Wireless Bluetooth Headphones",
+      "price": "29.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e18.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 33,
+      "name": "Noise-Cancelling Headphones",
+      "price": "149.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e20.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 34,
+      "name": "Boat 148 Earbuds",
+      "price": "39.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e16.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 35,
+      "name": "Boat Headphones with Mic",
+      "price": "119.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e17.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 36,
+      "name": "Boat Marvallous Headphones",
+      "price": "49.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e18.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 37,
+      "name": "NovaBook UltraSlim Notebook",
+      "price": "899.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e11.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 38,
+      "name": "Apple MacBook Pro",
+      "price": "1999.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e10.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 39,
+      "name": "Dell XPS 13",
+      "price": "1399.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e12.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 40,
+      "name": "VisionX 4K Ultra HD Smart TV",
+      "price": "799.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e6.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 41,
+      "name": "QuantumView 65-Inch QLED TV",
+      "price": "1299.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e9.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 42,
+      "name": "StellarVision Curved OLED Television",
+      "price": "1999.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e8.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 43,
+      "name": "EchoScreen 55-Inch Smart LED TV",
+      "price": "899.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e7.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 44,
+      "name": "QuantumSnap Pro DSLR Camera",
+      "price": "899.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e6.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 45,
+      "name": "NovaLens Mirrorless Camera",
+      "price": "1099.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e5.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 46,
+      "name": "CyberCapture 4K Action Camera",
+      "price": "349.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e4.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 47,
+      "name": "EchoShot Compact Digital Camera",
+      "price": "499.95",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e3.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 48,
+      "name": "ZenithFocus Professional Camcorder",
+      "price": "1299.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e2.png",
+      "checkoutStarted": false
+    },
+    {
+      "id": 49,
+      "name": "EchoShot Compact Digital Camera",
+      "price": "1299.99",
+      "review": "",
+      "otherInfo": "Lorem ipsum...",
+      "image": "images/e1.png",
       "checkoutStarted": false
     }
   ],
@@ -271,5 +604,6 @@
       "phone": "6239443996",
       "id": 23
     }
-  ]
+  ],
+  "orders": []
 }
